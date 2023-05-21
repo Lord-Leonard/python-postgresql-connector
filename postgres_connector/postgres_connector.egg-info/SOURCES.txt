@@ -1,0 +1,10 @@
+setup.py
+postgres_connector/__init__.py
+postgres_connector/connection_manager.py
+postgres_connector/databse_manager.py
+postgres_connector.egg-info/PKG-INFO
+postgres_connector.egg-info/SOURCES.txt
+postgres_connector.egg-info/dependency_links.txt
+postgres_connector.egg-info/not-zip-safe
+postgres_connector.egg-info/requires.txt
+postgres_connector.egg-info/top_level.txt
